@@ -37,7 +37,7 @@ include_once 'up.php';
                         <div class="col-md-6">
                             <select class="form-select" required name="matkul">
                                 <option selected>- Pilih Matkul - </option>
-                                <option value="DDP">Dasar-Dasar Pemprograman</option>
+                                <option value="DDP">Dasar - Dasar Pemprograman</option>
                                 <option value="BDI">Basis Data I</option>
                                 <option value="WEB1">Pemprograman Web</option>
                             </select>

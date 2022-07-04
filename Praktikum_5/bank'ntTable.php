@@ -31,7 +31,7 @@ class Account
         echo "Atas Nama : <b>" . $this->nama . "</b><br>";
         echo "Saldo Anda Sebesar : <b>" . $this->saldo . "</b><br><br>";
 
-        // echo "Rekening Atas Nama <b>" . $this->nama . "</b> <br> Mempunyai Saldo Sebesar " . $this->saldo . "<br><br>";
+        // echo "Rekening Atas Nama <b>" . $this->nama . "</b> <br>     Mempunyai Saldo Sebesar " . $this->saldo . "<br><br>";
     }
 }
 

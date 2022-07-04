@@ -14,4 +14,4 @@ echo '<br/>';
 echo '<br/>Nilai UTS : ' . $nilai_uts;
 echo '<br/>Nilai UAS : ' . $nilai_uas;
 echo '<br/>Nilai Tugas : ' . $nilai_tugas;
-echo '<br/>';
+echo '<br/>'; 
